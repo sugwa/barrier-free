@@ -48,7 +48,31 @@
 
 # 产品原型
 
+**产品架构**
 
+![产品架构](https://gitee.com/NFUNM008/sugwa_first_job_haha/raw/master/%E4%BA%A7%E5%93%81%E6%9E%B6%E6%9E%84.png)
+
+**首页**
+
+![首页](https://gitee.com/NFUNM008/sugwa_first_job_haha/raw/master/%E9%A6%96%E9%A1%B5.png)
+
+**添加问题**
+
+![添加问题](https://gitee.com/NFUNM008/sugwa_first_job_haha/raw/master/%E6%B7%BB%E5%8A%A0%E9%97%AE%E9%A2%98.png)
+
+**通知**
+
+![通知页](https://gitee.com/NFUNM008/sugwa_first_job_haha/raw/master/%E9%80%9A%E7%9F%A5%E9%A1%B5.png)
+
+**我的**
+
+![我的](https://gitee.com/NFUNM008/sugwa_first_job_haha/raw/master/%E6%88%91%E7%9A%84.png)
+
+**语音合成api使用**
+
+![长按屏幕选择文字](https://gitee.com/NFUNM008/sugwa_first_job_haha/raw/master/%E9%95%BF%E6%8C%89.png)
+
+![确定，识别，朗读](https://gitee.com/NFUNM008/sugwa_first_job_haha/raw/master/%E8%AF%86%E5%88%AB.png)
 
 # 本产品主要运用的AI功能如下：
 
