@@ -4,6 +4,8 @@
 
 ### 所有人：陈淑铧
 
+# [录屏链接](https://pan.baidu.com/s/1EJrZ7WGetT82w3bLRxOz7A)
+- 有点慢，打不开的话请及时联系我谢谢！！
 
 # 产品定位
 
